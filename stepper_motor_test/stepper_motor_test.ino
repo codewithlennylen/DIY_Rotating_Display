@@ -17,12 +17,12 @@ void setup()
 void loop()
 {
     // Rotate CW slowly
-    myStepper.setSpeed(200);
+    myStepper.setSpeed(350);
     myStepper.step(stepsPerRevolution);
     delay(1000);
 
     // Rotate CCW quickly
-    myStepper.setSpeed(700);
+    myStepper.setSpeed(1000);
     myStepper.step(-stepsPerRevolution);
     delay(1000);
 }
