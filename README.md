@@ -4,7 +4,7 @@
  
  For more Information, such as the project requirements and code, refer to the following links:
  
- [Project Documentation](https://codewithlennylen254.pythonanywhere.com/blogboard/Electronics%20Projects/)
+ [Project Documentation](https://codewithlennylen254.pythonanywhere.com/diy_rotating_display/)
  
  [Arduino Code](https://github.com/codewithlennylen/DIY_Rotating_Display/blob/master/Code/Code.ino)
  
